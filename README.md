@@ -11,7 +11,7 @@ https://nodejs.org/en/download/
 - In the console, type the following statement  
 `$ npm install`
 
-- SASS edit files in the directory `src/scss
+- SASS edit files in the directory `src/scss`
 
 - Gulp to run, run on the console the following statement:  
 `$ gulp`
