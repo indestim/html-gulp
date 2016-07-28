@@ -13,7 +13,8 @@ https://nodejs.org/en/download/
 
 - SASS edit files in the directory `src/scss
 
-- Gulp to run, run on the console the following statement:  `$ gulp`
+- Gulp to run, run on the console the following statement:  
+`$ gulp`
 
 
-All unsaved changes are displayed in the Google Chrome browser, and a notification is displayed. This configuration can be modified in the file `gulpfile.js
+All unsaved changes are displayed in the Google Chrome browser, and a notification is displayed. This configuration can be modified in the file `gulpfile.js`
