@@ -1,0 +1,9 @@
+h1 {
+	color: $color-base;
+	font-size: $font-size-h1;
+}
+
+p {
+	color: darken($color-base, 10%);
+	font-size: $font-size-large;
+}
